@@ -7,5 +7,5 @@ Craftentries started in 2014/15 by [@thomassausen](https://github.com/thomassaus
 ## Follow us
 
 - [𝕏](https://twitter.com/craftentries)
-- [Mastodon] (https://mastodon.social/@craftentries)
+- [Mastodon](https://mastodon.social/@craftentries)
 - [Youtube](https://www.youtube.com/@craftentries)
